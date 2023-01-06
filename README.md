@@ -1,8 +1,8 @@
 # Título del proyecto
-![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
+![Imagen del proyecto](https://github.com/Fercho612/My-PortFolio/blob/main/Multimedia/Portada.PNG)
 
 ## Ejemplo en vivo
-- [URL-de-github-pages-de-este-proyecto](URL-de-github-pages-de-este-proyecto)
+- [Portafolio - Pereyra Fernando](URL-de-github-pages-de-este-proyecto)
 
 ## Descripción 📑
 
