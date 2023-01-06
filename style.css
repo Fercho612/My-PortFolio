@@ -1,0 +1,44 @@
+header{
+  background: linear-gradient(rgba(3,2,10,.85),rgba(3,2,10,.85)), url("Multimedia/background.jpg") no-repeat center center fixed;
+  background-size: cover;
+  height: 100vh;
+}
+.view_more{
+  height: 120px;
+}
+
+footer,.visit_web:hover{
+  background: #2c2c2c;
+  color: #fff;
+}
+footer{
+  background: linear-gradient(130deg, rgba(79,79,79,1) 0%, rgba(52,52,52,1) 100%);
+}
+
+.client-side-tec img{
+  max-height: 150px;
+} 
+
+.logo {
+  height: 50px;
+  width: 50px;
+}
+.logo_btn{
+  color: #fff;
+}
+.logo_btn:hover{
+  color: #2c2c2c;
+  background: #fff;
+}
+
+
+
+#row-animated{ animation: slide-bottom 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) 2s infinite both; }
+@keyframes slide-bottom {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(23px);
+  }
+}
