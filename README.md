@@ -6,7 +6,7 @@
 
 ## Descripción 📑
 
-Este es mi portafolio, donde estan subidos mis proyectos realizados hasta la fecha.
+Este es mi portafolio, donde estan subidos mis proyectos realizados hasta la fecha y las tecnologias que manejo.
 
 ## Tecnologías 🛠
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/HTML5)
