@@ -2,7 +2,7 @@
 ![Imagen del proyecto](https://github.com/Fercho612/My-PortFolio/blob/main/Multimedia/Portada.PNG)
 
 ## Ejemplo en vivo
-- [Portafolio - Pereyra Fernando](URL-de-github-pages-de-este-proyecto)
+- [Portafolio - Pereyra Fernando](https://fercho612.github.io/My-PortFolio/)
 
 ## Descripción 📑
 
